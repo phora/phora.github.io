@@ -179,7 +179,7 @@ POSTS = (
     #("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.md", "stories", "story.tmpl"),
+    ("stories/*.md", "", "story.tmpl"),
     #("stories/*.txt", "stories", "story.tmpl"),
 )
 
