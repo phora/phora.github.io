@@ -6,18 +6,22 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2014-10-07</lastmod>
+  <lastmod>2014-10-19</lastmod>
+ </url>
+ <url>
+  <loc>/about/</loc>
+  <lastmod>2014-10-19</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2014-10-07</lastmod>
+  <lastmod>2014-10-19</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2014-10-07</lastmod>
+  <lastmod>2014-10-19</lastmod>
  </url>
  <url>
   <loc>/tipue_search.html</loc>
-  <lastmod>2014-10-07</lastmod>
+  <lastmod>2014-10-19</lastmod>
  </url>
 </urlset>

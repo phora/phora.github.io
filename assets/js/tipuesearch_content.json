@@ -1,3 +1,10 @@
 {
-  "pages": []
+  "pages": [
+    {
+      "loc": "/about/",
+      "tags": "",
+      "text": "Write your page here.",
+      "title": "About"
+    }
+  ]
 }
