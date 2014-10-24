@@ -6,19 +6,43 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2014-10-19</lastmod>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/2014/</loc>
+  <lastmod>2014-10-23</lastmod>
  </url>
  <url>
   <loc>/about/</loc>
-  <lastmod>2014-10-19</lastmod>
+  <lastmod>2014-10-23</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2014-10-19</lastmod>
+  <lastmod>2014-10-23</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2014-10-19</lastmod>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/categories/bootstrap-2/</loc>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/categories/cyborg/</loc>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/categories/nikola/</loc>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/categories/theme/</loc>
+  <lastmod>2014-10-23</lastmod>
+ </url>
+ <url>
+  <loc>/posts/theme-overhaul/</loc>
+  <lastmod>2014-10-23</lastmod>
  </url>
  <url>
   <loc>/tipue_search.html</loc>
