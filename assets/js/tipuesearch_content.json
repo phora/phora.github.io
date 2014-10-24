@@ -1,16 +1,16 @@
 {
   "pages": [
     {
-      "tags": "bootstrap 2,cyborg,nikola,theme",
       "text": "Decided to retheme this with bootswatch's cyborg theme. Also swapped out AddThis with AddToAny.",
-      "title": "Theme Overhaul",
-      "loc": "/posts/theme-overhaul/"
+      "tags": "bootstrap 2,cyborg,nikola,theme",
+      "loc": "/posts/theme-overhaul/",
+      "title": "Theme Overhaul"
     },
     {
-      "tags": "",
       "text": "Description\nJoan is a student at Pacific Lutheran University in Tacoma, Washington. She is working towards her Bachelor's of Science Degrees in computer science and computer \nengineering. Through her coursework and her spare time, she has experience with Java, C/C++, MATLAB, Python2, Python3, Bash, and JavaScript. She also competes in the \nACM-ICPC from time to time.\nAt PLU, Joan also works as a grader for one of the professors in the CSCE Department.\nLinks\n\nEmail\nFacebook\nGithub\n\nSchedule",
-      "title": "About",
-      "loc": "/about/"
+      "tags": "",
+      "loc": "/about/",
+      "title": "About"
     }
   ]
 }
