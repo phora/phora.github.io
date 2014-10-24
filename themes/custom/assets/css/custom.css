@@ -1,0 +1,55 @@
+.forkme-button {
+	position: absolute;
+	top: 50px;
+	right: 0px;
+}
+
+/** tags **/
+.tags > li,
+.tags > li a {
+	color: inherit !important;
+}
+
+.tags > li {
+	background: #0A568A !important;
+}
+
+.badge {
+	color: black !important;
+}
+
+/** AddToAny **/
+.a2a_dd img {
+	position:fixed;
+	bottom: 0;
+	right: 0;
+}
+
+/** Aesthetic tipue overrides **/
+#tipue_search_input {
+	color: inherit !important;
+	border: 1px solid #222 !important;
+	background: #090A0B !important;
+}
+
+#tipue_search_warning_head {
+	color: inherit !important;
+}
+
+#tipue_search_results_count {
+	color: inherit !important;
+}
+
+.tipue_search_content_title a,
+.tipue_search_content_loc a {
+	color: #33B5E5 !important;
+}
+
+.tipue_search_content_title a,
+.tipue_search_content_loc a:hover {
+	border-color: #33B5E5 !important;
+}
+
+.tipue_search_content_text {
+	color: inherit !important;
+}

@@ -116,7 +116,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "custom"
 
 # Below this point, everything is optional
 
@@ -606,6 +606,22 @@ MARKDOWN_EXTENSIONS = ['tables', 'fenced_code', 'nl2br', 'strkundr', 'codehilite
 # <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
+SOCIAL_BUTTONS_CODE = """
+<!-- AddToAny BEGIN -->
+<a class="a2a_dd" href="https://www.addtoany.com/share_save"><img src="//static.addtoany.com/buttons/favicon.png" width="16" height="16" border="0" alt="Share"/></a>
+<script type="text/javascript">
+var a2a_config = a2a_config || {};
+a2a_config.color_main = "020202";
+a2a_config.color_border = "33B5E5";
+a2a_config.color_link_text = "565656";
+a2a_config.color_link_text_hover = "eee";
+a2a_config.color_bg = "020202";
+a2a_config.color_arrow = "fff";
+a2a_config.color_arrow_hover = "fff";
+</script>
+<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+"""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
@@ -639,7 +655,7 @@ MARKDOWN_EXTENSIONS = ['tables', 'fenced_code', 'nl2br', 'strkundr', 'codehilite
 # Default is no search form.
 # (translatable)
 SEARCH_FORM = """
-<span class="navbar-form pull-left">
+<span class="navbar-form pull-right">
 <input type="text" id="tipue_search_input">
 </span>"""
 
