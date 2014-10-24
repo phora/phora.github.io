@@ -655,9 +655,9 @@ a2a_config.color_arrow_hover = "fff";
 # Default is no search form.
 # (translatable)
 SEARCH_FORM = """
-<span class="navbar-form pull-right">
+<form class="navbar-search pull-right">
 <input type="text" id="tipue_search_input">
-</span>"""
+</form>"""
 
 
 # This search form works for any site and looks good in the "site" theme where

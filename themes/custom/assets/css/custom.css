@@ -36,6 +36,10 @@
 	color: inherit !important;
 }
 
+#tipue_search_content:empty {
+	display:none !important;
+}
+
 #tipue_search_results_count {
 	color: inherit !important;
 }
@@ -50,6 +54,11 @@
 	border-color: #33B5E5 !important;
 }
 
+
 .tipue_search_content_text {
 	color: inherit !important;
+}
+
+.navbar-search {
+	margin-top:5px;
 }
