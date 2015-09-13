@@ -1,51 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/2014/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/2015/</loc>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/about/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T21:16:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/aeondroid/</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/android/</loc>
+  <lastmod>2015-09-13T21:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/androptpb/</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/androtsh/</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/bootstrap-2/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/cyborg/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/foss/</loc>
+  <lastmod>2015-09-13T21:12:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/nikola/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/open-source/</loc>
+  <lastmod>2015-09-13T21:13:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/theme/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/android-apps-released/</loc>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/theme-overhaul/</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>/tipue_search.html</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2014-10-24T19:04:00Z</lastmod>
  </url>
 </urlset>

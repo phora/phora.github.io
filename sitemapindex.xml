@@ -1,31 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>/categories/aeondroid.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/categories/android.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/categories/androptpb.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/categories/androtsh.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>/categories/bootstrap-2.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/cyborg.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/categories/foss.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/nikola.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>/categories/open-source.xml</loc>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/categories/theme.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T20:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2014-10-24</lastmod>
+  <lastmod>2015-09-13T21:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>

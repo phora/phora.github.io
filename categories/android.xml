@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Chrisdona Joan's Github Profile (android)</title><link>/</link><description></description><atom:link rel="self" type="application/rss+xml" href="/categories/android.xml"></atom:link><language>en</language><lastBuildDate>Sun, 13 Sep 2015 21:18:56 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Android apps released</title><link>/posts/android-apps-released/</link><dc:creator>Chrisdona Joan C. Paraiso</dc:creator><description>&lt;div&gt;&lt;p&gt;During my job hunt (long delay in blog posts also caused by university busies), &lt;br&gt;
+I've been writing a few open source apps for Android that I hope to release on &lt;br&gt;
+both the Play Market and F-Droid. If you're interested in checking them out &lt;br&gt;
+and testing them, here's a list of them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/phora/Aeondroid"&gt;AeonDroid&lt;/a&gt; - A planetary hours app that will soon &lt;br&gt;
+have alerts configurable for planetary hours and moon phases. Currently just calculates&lt;br&gt;
+and displays the planetary hours.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/phora/AndroPTPB"&gt;AndroPTPB&lt;/a&gt; - An open source client for&lt;br&gt;
+&lt;a href="https://ptpb.pw"&gt;https://ptpb.pw&lt;/a&gt;, an open source pastebin&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/phora/AndroTSH"&gt;AndroTSH&lt;/a&gt; - An open source client for &lt;br&gt;
+&lt;a href="https://transfer.sh"&gt;https://transfer.sh&lt;/a&gt;, an open source site for temporarily transferring files&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>aeondroid</category><category>android</category><category>androptpb</category><category>androtsh</category><category>foss</category><category>open source</category><guid>/posts/android-apps-released/</guid><pubDate>Sun, 13 Sep 2015 20:21:46 GMT</pubDate></item></channel></rss>
